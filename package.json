@@ -1,0 +1,27 @@
+{
+  "name": "brobbot-flickr-image",
+  "version": "1.0.0",
+  "description": "A brobbot plugin for searching flickr images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nj4m/brobbot-flickr-image.git"
+  },
+  "keywords": [
+    "brobbot",
+    "flickr",
+    "image"
+  ],
+  "author": "Ben Robbins <ben.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3nj4m/brobbot-flickr-image/issues"
+  },
+  "peerDependencies": {
+    "brobbot": "4.x - 6.x"
+  },
+  "homepage": "https://github.com/b3nj4m/brobbot-flickr-image#readme"
+}
